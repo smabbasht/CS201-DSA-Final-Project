@@ -1,0 +1,47 @@
+type,ID,company,model year,cost
+Automatic transmission,2009 Audi A3 3.2,Audi,2009 Audi A3,10
+Manual transmission,2009 Audi A5 3.2,Audi,2009 Audi A5,13
+Automatic transmission,2009 Audi Q7 3.6,Audi,2009 Audi Q7,13
+Automatic transmission,2009 Audi A4 Sedan 3.2,Audi,2009 Audi A4 Sedan,8
+Automatic transmission,2012 Acura TL SH-AWD,Acura,2012 Acura TL,7
+Automatic transmission,2010 BMW X5 M SUV,BMW,2010 BMW X5,10
+Automatic transmission,2011 BMW X5 M SUV,BMW,2011 BMW X5,8
+Automatic transmission,2010 BMW X6 M,BMW,2010 BMW X6,14
+Automatic transmission,2011 BMW X6 M,BMW,2011 BMW X6,9
+Automatic transmission,2011 Chevrolet Colorado Crew Cab 1LT,Chevrolet,2011 Chevrolet Colorado,6
+Automatic transmission,2010 Chevrolet Colorado Crew Cab LT1,Chevrolet,2010 Chevrolet Colorado,11
+Automatic transmission,2012 Chevrolet Express LS 1500 AWD,Chevrolet,2012 Chevrolet Express,13
+Automatic transmission,2011 Chevrolet Express LS 2500 6.0L,Chevrolet,2011 Chevrolet Express,6
+Automatic transmission,2010 Chevrolet Express LS 1500 AWD,Chevrolet,2010 Chevrolet Express,12
+Automatic transmission,2011 Chevrolet Silverado 1500 Extended Cab Work Truck,Chevrolet,2011 Chevrolet Silverado 1500,6
+Automatic transmission,2010 Chevrolet Silverado 1500 Crew Cab Work Truck,Chevrolet,2010 Chevrolet Silverado 1500,8
+Manual transmission,2011 Nissan 370Z NISMO,Nissan,2011 Nissan 370Z Coupe,12
+Manual transmission,2010 Nissan 370Z NISMO,Nissan,2010 Nissan 370Z Coupe,9
+Manual transmission,2009 Nissan 370Z NISMO,Nissan,2009 Nissan 370Z Coupe,12
+Automatic transmission,2011 Volvo C30 T5 AT,Volvo,2011 Volvo C30,13
+Manual transmission,2010 Volvo C30 T5,Volvo,2010 Volvo C30,12
+Automatic transmission,2010 Bentley Brooklands,Bentley,2010 Bentley Brooklands,7
+Automatic transmission,2012 Bentley Continental Supersports Convertible,Bentley,2012 Bentley Continental Supersports Convertible,13
+Automatic transmission,2012 Bentley Continental Supersports Coupe,Bentley,2012 Bentley Continental Supersports Coupe,5
+Automatic transmission,2011 Bentley Continental Supersports Convertible,Bentley,2011 Bentley Continental Supersports Convertible,5
+Automatic transmission,2010 Bentley Continental Supersports,Bentley,2010 Bentley Continental Supersports,13
+Automatic transmission,2012 Bentley Continental Flying Spur Speed,Bentley,2012 Bentley Continental Flying Spur,9
+Automatic transmission,2011 Bentley Continental Flying Spur Speed,Bentley,2011 Bentley Continental Flying Spur,9
+Automatic transmission,2010 Bentley Continental Flying Spur,Bentley,2010 Bentley Continental Flying Spur,14
+Automatic transmission,2011 Volvo C70 T5,Volvo,2011 Volvo C70,7
+Manual transmission,2010 Volvo C70 T5,Volvo,2010 Volvo C70,9
+Manual transmission,2010 Volvo S40 2.4i,Volvo,2010 Volvo S40,5
+Automatic transmission,2011 Volvo S40 T5,Volvo,2011 Volvo S40,8
+Automatic transmission,2012 Volvo S60 R-Design,Volvo,2012 Volvo S60,11
+Automatic transmission,2011 Volvo S60 T6 AWD,Volvo,2011 Volvo S60,6
+Automatic transmission,2011 Volvo S80 3.2,Volvo,2011 Volvo S80,5
+Automatic transmission,2010 Volvo S80 3.2,Volvo,2010 Volvo S80,8
+Automatic transmission,2011 Volvo V50 T5,Volvo,2011 Volvo V50,13
+Automatic transmission,2010 Volvo V50 2.4i,Volvo,2010 Volvo V50,6
+Automatic transmission,2010 Volvo XC60 3.2,Volvo,2010 Volvo XC60,14
+Automatic transmission,2011 Volvo XC70 T6 AWD,Volvo,2011 Volvo XC70,5
+Automatic transmission,2011 Toyota 4Runner  Limited 4WD,Toyota,2011 Toyota 4Runner,11
+Automatic transmission,2011 Volvo XC90 3.2,Volvo,2011 Volvo XC90,8
+Automatic transmission,2010 Volvo XC90 3.2,Volvo,2010 Volvo XC90,14
+Automatic transmission,2010 Volvo V70 3.2,Volvo,2010 Volvo V70,8
+Automatic transmission,2010 Toyota 4Runner Limited,Toyota,2010 Toyota 4Runner,6
